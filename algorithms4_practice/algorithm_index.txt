@@ -1,0 +1,590 @@
+
+3.Python Algorithms
+https://github.com/TheAlgorithms/Python
+
+Arithmetic Analysis
+Bisection
+Gaussian Elimination
+In Static Equilibrium
+Intersection
+Lu Decomposition
+Newton Forward Interpolation
+Newton Method
+Newton Raphson
+Secant Method
+Backtracking
+All Combinations
+All Permutations
+All Subsequences
+Minimax
+N Queens
+Sudoku
+Sum Of Subsets
+Blockchain
+Chinese Remainder Theorem
+Diophantine Equation
+Modular Division
+Boolean Algebra
+Quine Mc Cluskey
+Cellular Automata
+One Dimensional
+Ciphers
+Affine Cipher
+Atbash
+Base16
+Base32
+Base64 Cipher
+Base85
+Brute Force Caesar Cipher
+Caesar Cipher
+Cryptomath Module
+Deterministic Miller Rabin
+Diffie
+Elgamal Key Generator
+Hill Cipher
+Mixed Keyword Cypher
+Morse Code Implementation
+Onepad Cipher
+Playfair Cipher
+Porta Cipher
+Rabin Miller
+Rot13
+Rsa Cipher
+Rsa Factorization
+Rsa Key Generator
+Shuffled Shift Cipher
+Simple Keyword Cypher
+Simple Substitution Cipher
+Trafid Cipher
+Transposition Cipher
+Transposition Cipher Encrypt Decrypt File
+Vigenere Cipher
+Xor Cipher
+Compression
+Burrows Wheeler
+Huffman
+Peak Signal To Noise Ratio
+Conversions
+Decimal To Binary
+Decimal To Hexadecimal
+Decimal To Octal
+Roman To Integer
+Data Structures
+Binary Tree
+Avl Tree
+Basic Binary Tree
+Binary Search Tree
+Binary Search Tree Recursive
+Fenwick Tree
+Lazy Segment Tree
+Lowest Common Ancestor
+Non Recursive Segment Tree
+Number Of Possible Binary Trees
+Red Black Tree
+Segment Tree
+Treap
+Data Structures
+Heap
+Heap Generic
+Disjoint Set
+Disjoint Set
+Hashing
+Double Hash
+Hash Table
+Hash Table With Linked List
+Number Theory
+Prime Numbers
+Quadratic Probing
+Heap
+Binomial Heap
+Heap
+Min Heap
+Linked List
+Circular Linked List
+Deque Doubly
+Doubly Linked List
+From Sequence
+Is Palindrome
+Middle Element Of Linked List
+Print Reverse
+Singly Linked List
+Skip List
+Swap Nodes
+Queue
+Circular Queue
+Double Ended Queue
+Linked Queue
+Queue On List
+Queue On Pseudo Stack
+Stacks
+Balanced Parentheses
+Infix To Postfix Conversion
+Infix To Prefix Conversion
+Linked Stack
+Next Greater Element
+Postfix Evaluation
+Prefix Evaluation
+Stack
+Stack Using Dll
+Stock Span Problem
+Trie
+Trie
+Digital Image Processing
+Change Contrast
+Convert To Negative
+Edge Detection
+Canny
+Filters
+Bilateral Filter
+Convolve
+Gaussian Filter
+Median Filter
+Sobel Filter
+Histogram Equalization
+Histogram Stretch
+Index Calculation
+Rotation
+Rotation
+Sepia
+Test Digital Image Processing
+Divide And Conquer
+Closest Pair Of Points
+Convex Hull
+Inversions
+Max Subarray Sum
+Mergesort
+Power
+Strassen Matrix Multiplication
+Dynamic Programming
+Abbreviation
+Bitmask
+Climbing Stairs
+Coin Change
+Edit Distance
+Factorial
+Fast Fibonacci
+Fibonacci
+Floyd Warshall
+Fractional Knapsack
+Fractional Knapsack 2
+Integer Partition
+Iterating Through Submasks
+Knapsack
+Longest Common Subsequence
+Longest Increasing Subsequence
+Longest Increasing Subsequence O(Nlogn)
+Longest Sub Array
+Matrix Chain Order
+Max Sub Array
+Max Sum Contiguous Subsequence
+Minimum Partition
+Optimal Binary Search Tree
+Rod Cutting
+Subset Generation
+Sum Of Subset
+File Transfer
+Receive File
+Send File
+Fuzzy Logic
+Fuzzy Operations
+Geodesy
+Haversine Distance
+Lamberts Ellipsoidal Distance
+Graphics
+Bezier Curve
+Graphs
+A Star
+Articulation Points
+Basic Graphs
+Bellman Ford
+Bfs
+Bfs Shortest Path
+Breadth First Search
+Check Bipartite Graph Bfs
+Check Bipartite Graph Dfs
+Depth First Search
+Depth First Search 2
+Dijkstra
+Dijkstra 2
+Dijkstra Algorithm
+Dinic
+Directed And Undirected (Weighted) Graph
+Edmonds Karp Multiple Source And Sink
+Eulerian Path And Circuit For Undirected Graph
+Even Tree
+Finding Bridges
+G Topological Sort
+Graph List
+Graph Matrix
+Graphs Floyd Warshall
+Kahns Algorithm Long
+Kahns Algorithm Topo
+Minimum Spanning Tree Kruskal
+Minimum Spanning Tree Prims
+Multi Heuristic Astar
+Page Rank
+Prim
+Scc Kosaraju
+Tarjans Scc
+Hashes
+Chaos Machine
+Enigma Machine
+Hamming Code
+Md5
+Sha1
+Linear Algebra
+Src
+Lib
+Polynom-For-Points
+Rayleigh Quotient
+Test Linear Algebra
+Machine Learning
+Decision Tree
+Gaussian Naive Bayes
+Gradient Descent
+K Means Clust
+K Nearest Neighbours
+Knn Sklearn
+Linear Discriminant Analysis
+Linear Regression
+Logistic Regression
+Multilayer Perceptron Classifier
+Polymonial Regression
+Random Forest Classifier
+Random Forest Regressor
+Scoring Functions
+Sequential Minimum Optimization
+Support Vector Machines
+Maths
+3N Plus 1
+Abs
+Abs Max
+Abs Min
+Add
+Allocation Number
+Area Under Curve
+Armstrong Numbers
+Average Mean
+Average Median
+Average Mode
+Basic Maths
+Binary Exp Mod
+Binary Exponentiation
+Binomial Coefficient
+Bisection
+Ceil
+Chudnovsky Algorithm
+Collatz Sequence
+Combinations
+Eulers Totient
+Explicit Euler
+Extended Euclidean Algorithm
+Factorial Iterative
+Factorial Python
+Factorial Recursive
+Factors
+Fermat Little Theorem
+Fibonacci
+Fibonacci Sequence Recursion
+Find Max
+Find Max Recursion
+Find Min
+Find Min Recursion
+Floor
+Gamma
+Gaussian
+Greatest Common Divisor
+Hardy Ramanujanalgo
+Is Square Free
+Jaccard Similarity
+Karatsuba
+Kth Lexicographic Permutation
+Largest Of Very Large Numbers
+Least Common Multiple
+Line Length
+Lucas Lehmer Primality Test
+Lucas Series
+Matrix Exponentiation
+Miller Rabin
+Mobius Function
+Modular Exponential
+Monte Carlo
+Monte Carlo Dice
+Newton Raphson
+Numerical Integration
+Perfect Square
+Pi Monte Carlo Estimation
+Polynomial Evaluation
+Prime Check
+Prime Factors
+Prime Numbers
+Prime Sieve Eratosthenes
+Pythagoras
+Qr Decomposition
+Quadratic Equations Complex Numbers
+Radians
+Radix2 Fft
+Relu
+Runge Kutta
+Segmented Sieve
+Series
+Geometric Series
+Harmonic Series
+P Series
+Sieve Of Eratosthenes
+Simpson Rule
+Softmax
+Square Root
+Sum Of Arithmetic Series
+Test Prime Check
+Trapezoidal Rule
+Volume
+Zellers Congruence
+Matrix
+Matrix Class
+Matrix Operation
+Nth Fibonacci Using Matrix Exponentiation
+Rotate Matrix
+Searching In Sorted Matrix
+Sherman Morrison
+Spiral Print
+Tests
+Test Matrix Operation
+Networking Flow
+Ford Fulkerson
+Minimum Cut
+Neural Network
+Back Propagation Neural Network
+Convolution Neural Network
+Perceptron
+Other
+Activity Selection
+Anagrams
+Autocomplete Using Trie
+Binary Exponentiation
+Binary Exponentiation 2
+Detecting English Programmatically
+Dijkstra Bankers Algorithm
+Euclidean Gcd
+Fischer Yates Shuffle
+Frequency Finder
+Game Of Life
+Greedy
+Integeration By Simpson Approx
+Largest Subarray Sum
+Least Recently Used
+Linear Congruential Generator
+Magicdiamondpattern
+Nested Brackets
+Palindrome
+Password Generator
+Primelib
+Sdes
+Sierpinski Triangle
+Tower Of Hanoi
+Two Sum
+Word Patterns
+Project Euler
+Problem 01
+Sol1
+Sol2
+Sol3
+Sol4
+Sol5
+Sol6
+Sol7
+Problem 02
+Sol1
+Sol2
+Sol3
+Sol4
+Sol5
+Problem 03
+Sol1
+Sol2
+Sol3
+Problem 04
+Sol1
+Sol2
+Problem 05
+Sol1
+Sol2
+Problem 06
+Sol1
+Sol2
+Sol3
+Sol4
+Problem 07
+Sol1
+Sol2
+Sol3
+Problem 08
+Sol1
+Sol2
+Sol3
+Problem 09
+Sol1
+Sol2
+Sol3
+Problem 10
+Sol1
+Sol2
+Sol3
+Problem 11
+Sol1
+Sol2
+Problem 12
+Sol1
+Sol2
+Problem 13
+Sol1
+Problem 14
+Sol1
+Sol2
+Problem 15
+Sol1
+Problem 16
+Sol1
+Sol2
+Problem 17
+Sol1
+Problem 18
+Solution
+Problem 19
+Sol1
+Problem 20
+Sol1
+Sol2
+Sol3
+Sol4
+Problem 21
+Sol1
+Problem 22
+Sol1
+Sol2
+Problem 23
+Sol1
+Problem 234
+Sol1
+Problem 24
+Sol1
+Problem 25
+Sol1
+Sol2
+Sol3
+Problem 27
+Problem 27 Sol1
+Problem 28
+Sol1
+Problem 29
+Solution
+Problem 30
+Soln
+Problem 31
+Sol1
+Problem 32
+Sol32
+Problem 33
+Sol1
+Problem 36
+Sol1
+Problem 40
+Sol1
+Problem 42
+Solution42
+Problem 48
+Sol1
+Problem 52
+Sol1
+Problem 53
+Sol1
+Problem 551
+Sol1
+Problem 56
+Sol1
+Problem 67
+Sol1
+Problem 76
+Sol1
+Problem 99
+Sol1
+Scheduling
+First Come First Served
+Searches
+Binary Search
+Fibonacci Search
+Hill Climbing
+Interpolation Search
+Jump Search
+Linear Search
+Quick Select
+Sentinel Linear Search
+Simple-Binary-Search
+Simulated Annealing
+Tabu Search
+Ternary Search
+Sorts
+Bitonic Sort
+Bogo Sort
+Bubble Sort
+Bucket Sort
+Cocktail Shaker Sort
+Comb Sort
+Counting Sort
+Cycle Sort
+Double Sort
+External Sort
+Gnome Sort
+Heap Sort
+I Sort
+Insertion Sort
+Merge Sort
+Odd Even Transposition Parallel
+Odd Even Transposition Single Threaded
+Pancake Sort
+Pigeon Sort
+Pigeonhole Sort
+Quick Sort
+Quick Sort 3 Partition
+Radix Sort
+Random Normal Distribution Quicksort
+Random Pivot Quick Sort
+Recursive-Quick-Sort
+Recursive Bubble Sort
+Recursive Insertion Sort
+Selection Sort
+Shell Sort
+Stooge Sort
+Tim Sort
+Topological Sort
+Tree Sort
+Unknown Sort
+Wiggle Sort
+Strings
+Aho-Corasick
+Boyer Moore Search
+Check Pangram
+Is Palindrome
+Knuth Morris Pratt
+Levenshtein Distance
+Lower
+Manacher
+Min Cost String Conversion
+Naive String Search
+Rabin Karp
+Remove Duplicate
+Reverse Words
+Split
+Upper
+Word Occurrence
+Traversals
+Binary Tree Traversals
+Web Programming
+Crawl Google Results
+Current Stock Price
+Emails From Url
+Fetch Bbc News
+Fetch Github Info
+Get Imdb Top 250 Movies Csv
+Get Imdbtop
+Slack Message
